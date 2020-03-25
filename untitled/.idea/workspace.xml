@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe08590d-dfb9-48d3-bbf6-7781b9279c16" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Gradle Kotlin DSL Build Script" />
+        <option value="HTML File" />
+        <option value="XSLT Stylesheet" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MavenRepository" />
+        <option name="mavenHome" value="D:/maven3.6.0/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\maven3.6.0\apache-maven-3.6.0\conf\settings.xml" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="13" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1UBtR5YrS6TAl7wVNLn7OEPNIpM" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25183824" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.jk.properties" />
+      <recent name="com.jk.first" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\untitled\15-jpa\src\main\java\com\jk\jpa" />
+      <recent name="F:\untitled\12-freemarker\src\main\resources\public\error" />
+      <recent name="F:\untitled\01-first\src\main\resources" />
+      <recent name="F:\untitled\12-war\src\main\java\com\jk\war" />
+      <recent name="F:\untitled\11-thymeleaf\src\main\resources\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\untitled\01-first\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in 04-mybatis">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jk.upload.Application" />
+      <module name="14-upload" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jk.upload.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jk.actuatorclient.Application" />
+      <module name="06-actuator-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jk.actuatorclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in 04-mybatis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="04-mybatis" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="02-properties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jk.properties.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jk.properties" />
+      <option name="MAIN_CLASS_NAME" value="com.jk.properties.ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (10)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="11-thymeleaf" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.thymeleaf.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (11)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="12-war" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.war.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (12)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="12-freemarker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.freemarker.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (13)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="13-servlet" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.servlet.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (14)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="15-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.jpa.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (15)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="14-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.upload.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="02-properties" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.properties.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="03-jsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.jsp.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="04-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.mybatis.Application" />
+      <option name="PROGRAM_PARAMETERS" value="pwd=123" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="05-intercepter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.intercepter.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="06-actuator-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.actuatorclient.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="07-actuator-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.actuatorserver.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (7)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="08-autoconfigure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.autoconfigure.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (8)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="09-starter" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.starter.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (9)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="10-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.test.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="01-first" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.first.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="02-properties" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jk.properties.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.properties.HelloApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.test.TestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.42" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.42" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_untitled" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51240" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Application.Application (1)" />
+      <item itemvalue="JUnit.ApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.All in 04-mybatis" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Application (1)" />
+      <item itemvalue="Spring Boot.Application (2)" />
+      <item itemvalue="Spring Boot.Application (3)" />
+      <item itemvalue="Spring Boot.Application (4)" />
+      <item itemvalue="Spring Boot.Application (5)" />
+      <item itemvalue="Spring Boot.Application (6)" />
+      <item itemvalue="Spring Boot.Application (7)" />
+      <item itemvalue="Spring Boot.Application (8)" />
+      <item itemvalue="Spring Boot.Application (9)" />
+      <item itemvalue="Spring Boot.Application (10)" />
+      <item itemvalue="Spring Boot.Application (11)" />
+      <item itemvalue="Spring Boot.TestApplication" />
+      <item itemvalue="Spring Boot.Application (12)" />
+      <item itemvalue="Spring Boot.Application (13)" />
+      <item itemvalue="Spring Boot.Application (14)" />
+      <item itemvalue="Spring Boot.Application (15)" />
+      <item itemvalue="Spring Boot.HelloApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.42" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in 04-mybatis" />
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.ApplicationTests.contextLoads" />
+        <item itemvalue="Spring Boot.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe08590d-dfb9-48d3-bbf6-7781b9279c16" name="Default Changelist" comment="" />
+      <created>1574841804670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574841804670</updated>
+      <workItem from="1574841807907" duration="1416000" />
+      <workItem from="1574843529317" duration="4268000" />
+      <workItem from="1574861753501" duration="5628000" />
+      <workItem from="1574923240181" duration="1964000" />
+      <workItem from="1574925248379" duration="3822000" />
+      <workItem from="1574929134057" duration="3408000" />
+      <workItem from="1574948958414" duration="5123000" />
+      <workItem from="1574989366058" duration="6106000" />
+      <workItem from="1574996681863" duration="2157000" />
+      <workItem from="1574998856474" duration="2076000" />
+      <workItem from="1575037243867" duration="3418000" />
+      <workItem from="1575040703139" duration="2870000" />
+      <workItem from="1575101921597" duration="11611000" />
+      <workItem from="1575167887177" duration="13305000" />
+      <workItem from="1575207718455" duration="4725000" />
+      <workItem from="1575295412150" duration="2315000" />
+      <workItem from="1575299500825" duration="1973000" />
+      <workItem from="1575385437026" duration="846000" />
+      <workItem from="1575443253328" duration="2289000" />
+      <workItem from="1575509433604" duration="3567000" />
+      <workItem from="1575535571228" duration="3226000" />
+      <workItem from="1575619036493" duration="809000" />
+      <workItem from="1575620653903" duration="4890000" />
+      <workItem from="1575719416126" duration="2161000" />
+      <workItem from="1575731502052" duration="1906000" />
+      <workItem from="1575771613825" duration="1306000" />
+      <workItem from="1576221309207" duration="4599000" />
+      <workItem from="1576248777088" duration="893000" />
+      <workItem from="1576311537222" duration="1106000" />
+      <workItem from="1576391346433" duration="7404000" />
+      <workItem from="1576419094170" duration="3367000" />
+      <workItem from="1576508059822" duration="5699000" />
+      <workItem from="1576545483811" duration="6946000" />
+      <workItem from="1576563150084" duration="385000" />
+      <workItem from="1576563560259" duration="1786000" />
+      <workItem from="1576566976239" duration="260000" />
+      <workItem from="1576597443404" duration="2334000" />
+      <workItem from="1576683833307" duration="367000" />
+      <workItem from="1576767827752" duration="87000" />
+      <workItem from="1577460680115" duration="273000" />
+      <workItem from="1577688347235" duration="735000" />
+      <workItem from="1578051467610" duration="5507000" />
+      <workItem from="1578534741947" duration="13631000" />
+      <workItem from="1578621248298" duration="3777000" />
+      <workItem from="1578706981068" duration="891000" />
+      <workItem from="1578709526279" duration="4017000" />
+      <workItem from="1578725944555" duration="5614000" />
+      <workItem from="1578751990487" duration="2544000" />
+      <workItem from="1578813207333" duration="5461000" />
+      <workItem from="1578966914786" duration="2259000" />
+      <workItem from="1578970055940" duration="3142000" />
+      <workItem from="1579156715616" duration="808000" />
+      <workItem from="1579184394215" duration="6470000" />
+      <workItem from="1579444524074" duration="870000" />
+      <workItem from="1579445430096" duration="1136000" />
+      <workItem from="1579672648742" duration="1914000" />
+      <workItem from="1579675509569" duration="710000" />
+      <workItem from="1579676439403" duration="291000" />
+      <workItem from="1579676751142" duration="5992000" />
+      <workItem from="1579699715258" duration="2732000" />
+      <workItem from="1580024266902" duration="3740000" />
+      <workItem from="1580029386382" duration="155000" />
+      <workItem from="1580029747108" duration="288000" />
+      <workItem from="1580282995953" duration="1585000" />
+      <workItem from="1580459790423" duration="2248000" />
+      <workItem from="1580713931065" duration="139000" />
+      <workItem from="1580717369456" duration="940000" />
+      <workItem from="1580719195822" duration="1383000" />
+      <workItem from="1580720635854" duration="1267000" />
+      <workItem from="1580735781819" duration="119000" />
+      <workItem from="1580736640175" duration="826000" />
+      <workItem from="1580737565807" duration="3938000" />
+      <workItem from="1580742195531" duration="500000" />
+      <workItem from="1580743029618" duration="4940000" />
+      <workItem from="1580800459401" duration="2296000" />
+      <workItem from="1581411338187" duration="826000" />
+      <workItem from="1582463953361" duration="179000" />
+      <workItem from="1582900545819" duration="272000" />
+      <workItem from="1583158738412" duration="2891000" />
+      <workItem from="1583236276007" duration="1629000" />
+      <workItem from="1583286075419" duration="736000" />
+      <workItem from="1583374419524" duration="224000" />
+      <workItem from="1583481611921" duration="1097000" />
+      <workItem from="1583498702881" duration="221000" />
+      <workItem from="1583507505211" duration="3965000" />
+      <workItem from="1583548393454" duration="2929000" />
+      <workItem from="1583589186576" duration="771000" />
+      <workItem from="1583590813299" duration="143000" />
+      <workItem from="1583595870310" duration="37000" />
+      <workItem from="1583913694634" duration="444000" />
+      <workItem from="1583916536943" duration="647000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
